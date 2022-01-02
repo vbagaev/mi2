@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "Задание#1",
+    "dateCreated": "2022-01-02",
+    "dateEdited": "2022-01-02",
+    "toDate": "2022-02-02",
+    "addresses": [
+      {"buildingAddress": "Новоузенская, 22а",
+        "objects": [
+          {
+            "id": 7777,
+            "adrId": 7777,
+            "address": "Новоузенская, 22а, 76",
+            "status": 0,
+            "buildingId": 8888,
+            "buildingAddress": ""
+          },
+          {
+            "id": 7778,
+            "adrId": 7778,
+            "address": "Новоузенская, 22а, 76",
+            "status": 0,
+            "buildingId": 8888,
+            "buildingAddress": ""
+          }
+        ]
+      }
+    ],
+    "addressesCount": 6,
+    "user": {
+      "id": 5,
+      "fullName": "Багаев Валерий"
+    },
+    "creator": {
+      "id": 1,
+      "fullName": "Игнатьев Антон"
+    },
+  "status": 0
+  },
+  {
+    "id": 2,
+    "title": "Задание#2",
+    "dateCreated": "2022-01-03",
+    "dateEdited": "2022-01-03",
+    "toDate": "2022-02-03",
+    "addresses": [
+      {"buildingAddress": "Новоузенская, 22а",
+        "objects": [
+          {
+            "id": 7777,
+            "adrId": 7777,
+            "address": "Новоузенская, 22а, 74",
+            "status": 0,
+            "buildingId": 8888,
+            "buildingAddress": ""
+          },
+          {
+            "id": 7778,
+            "adrId": 7778,
+            "address": "Новоузенская, 22а, 75",
+            "status": 0,
+            "buildingId": 8888,
+            "buildingAddress": ""
+          }
+        ]
+      }
+    ],
+    "addressesCount": 6,
+    "user": {
+      "id": 5,
+      "fullName": "Багаев Валерий"
+    },
+    "creator": {
+      "id": 1,
+      "fullName": "Игнатьев Антон"
+    },
+    "status": 0
+  }
+]
